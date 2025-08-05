@@ -25,8 +25,8 @@ I'm passionate about clean code, functional, and beautiful user experiences, and
    (Pickup Truck & Security Clearance Required) 
   
 - 💬 **Ask me about:**
-    - Designing and developing for 100% pagespeed in WordPress
-    - Free Web Hosting & VPS Solutions
+    - WordPress Development
+    - Web Hosting & VPS Solutions
     - Black hole facts
 
 - ⚡ **Fun fact:**
